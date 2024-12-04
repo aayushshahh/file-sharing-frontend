@@ -1,0 +1,58 @@
+.App {
+	margin: 2.5rem 6.25rem 2.5rem 6.25rem;
+	text-align: left;
+}
+
+.flex-vert {
+	display: flex;
+	flex-direction: column;
+	gap: 1.25rem;
+}
+
+.flex-hor {
+	display: flex;
+	flex-direction: row;
+	gap: 2.5rem;
+}
+
+.header {
+	margin-bottom: 6.25rem;
+}
+
+.file-input {
+	margin-right: 2.5rem;
+}
+
+.input-field {
+	background-color: #f5f1ed;
+	padding: 0.5rem 1rem 0.5rem 1rem;
+	border: solid 1px;
+	border-color: #252323;
+	border-radius: 0.5rem;
+}
+
+.heading {
+	font-size: 1.5rem;
+	margin-bottom: 1.25rem;
+}
+
+.sub-body {
+	font-size: 0.875rem;
+	margin-bottom: 2.5rem;
+}
+
+.primary-btn {
+	display: block;
+	margin-top: 2.5rem;
+	margin-bottom: 2.5rem;
+	font-size: 1rem;
+	padding: 0.5rem 1rem 0.5rem 1rem;
+	border: none;
+	border-radius: 0.5rem;
+	background-color: #58a4b0;
+	color: #f5f1ed;
+}
+
+.url-input {
+	width: 50rem;
+}
